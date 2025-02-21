@@ -29,7 +29,7 @@ export default function Home() {
         <div id="hero-banner" className="container pt-20 pb-20  sm:pt-40 sm:pb-72  mx-auto flex flex-col md:flex-row justify-between items-center overflow-hidden duration-300 ease-in custom-screen text-black md:flex w-full">
           <div className="flex-none space-y-5 max-w-2xl px-4 md:px-0">
             <h1 className="text-center sm:text-start text-3xl font-extrabold sm:text-4xl md:text-5xl pb-2">
-              Code-System: Sistema de Acceso por Código
+              Code-System: Sistema de Acceso por Códiga
             </h1>
             <p className="text-center sm:text-start text-lg md:text-xl pt-4">
               Gestiona remotamente tus propiedades.
